@@ -1,15 +1,21 @@
-# 💫 About Me:
-Hey, I'm Pushkar Kumar 👋<br><br>🎓 B.Tech CSE 2nd Year @ GNIOT<br>💻 C | C++ | Python | DSA | Web Development<br>🌱 Currently learning DSA with C++ & Full-Stack Web Development<br>🚀 Building projects and improving my problem-solving skills<br>🎯 Aspiring Software Developer
+<!-- Replace the assets folder together with this README at the root of pushkar88827/pushkar88827. -->
+<p align="center"><img src="./assets/hero.svg?v=1" alt="Pushkar Kumar - aspiring software developer" width="100%"></p>
+<p align="center"><img src="./assets/about-life.svg?v=1" alt="What I am learning and building" width="100%"></p>
+<p align="center"><img src="./assets/stack.svg?v=1" alt="C, C++, Python, HTML, CSS and DSA" width="100%"></p>
+<p align="center"><img src="./assets/id-dashboard.svg?v=1" alt="GitHub profile snapshot captured October 12, 2026" width="100%"></p>
 
+## Selected repositories
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_pushkar.0111/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushkar-kr88827/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushkar9308@gmail.com) 
+| Repository | What it contains |
+|---|---|
+| [DSA](https://github.com/pushkar88827/DSA) | C++ practice programs covering fundamentals, arrays, and sorting. |
+| [WEB-DEV](https://github.com/pushkar88827/WEB-DEV) | HTML and CSS practice files organized by topic. |
+| [Array](https://github.com/pushkar88827/Array) | Array practice as part of my DSA learning journey. |
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pushkar88827&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pushkar88827&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pushkar88827&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center"><img src="./assets/connect.svg?v=1" alt="Connect with Pushkar Kumar" width="100%"></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/pushkar-kr88827/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/pushkar88827/">LeetCode</a> ·
+  <a href="https://github.com/pushkar88827">GitHub</a>
+</p>
